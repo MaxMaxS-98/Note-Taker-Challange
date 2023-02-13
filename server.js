@@ -11,10 +11,10 @@ app.use(express.json());
 app.use(express.static('public'));
 
 // this is the routes that I will be using
-require('./routes/apiRoutes')(app);
-require('./routes/htmlRoutes')(app);
+require('./routes/apiRoute')(app);
+require('./routes/htmlRoute')(app);
 
 // console log to let us know that the server is running
 app.listen(PORT, function() {
     console.log('App listening on PORT: ' + PORT);
-    });
+});

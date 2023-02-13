@@ -1,4 +1,4 @@
-var contents = require("../db/noteContents");
+var contents = require("../db/contents");
 
 const fs = require("fs");
 const util = require("util");
