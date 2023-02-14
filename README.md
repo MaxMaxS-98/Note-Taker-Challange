@@ -1,9 +1,5 @@
 # Note-Taker-Challange
 
-// one of the links wasn't working so i put two just in case 
-
-https://git.heroku.com/note-taker-app-max.git
-
 https://note-taker-app-max.herokuapp.com/notes
 
 ![Alt text](Assets/Screen%20Shot%202023-02-13%20at%2010.18.05%20PM.png)
